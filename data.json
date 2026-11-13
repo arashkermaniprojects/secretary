@@ -14,19 +14,6 @@
    "k": "deadline"
   },
   {
-   "d": "2026-11-16",
-   "t": "Labs 9 & 10 refined and sent to TAs (before Monday) – draft only",
-   "c": "BCS311",
-   "k": "task"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Quiz 2 window (CLO3+4) – exact day: see 'Assessment Schedule' email (TBC)",
-   "c": "BCS311",
-   "k": "exam",
-   "tbc": true
-  },
-  {
    "d": "2026-11-23",
    "t": "BCS 311 Assignment (CLO5) issued – proposed",
    "c": "BCS311",
@@ -59,13 +46,6 @@
    "t": "BCS 311 Assignment due 23:59 – proposed",
    "c": "BCS311",
    "k": "deadline",
-   "tbc": true
-  },
-  {
-   "d": "2026-12-07",
-   "t": "BCS 311 Lab Final window (7–9 Dec) – exact day: see email (TBC)",
-   "c": "BCS311",
-   "k": "exam",
    "tbc": true
   },
   {
@@ -139,11 +119,29 @@
    "t": "Spring semester starts",
    "c": "All",
    "k": "deadline"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "BCS 311 Quiz 2 (CLO3+4) – lecture time, 23–24 Nov (announced by email)",
+   "c": "BCS311",
+   "k": "exam"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "BCS 311 Quiz 2 (continued) + Lab Final 24–25 Nov, lab time (announced by email)",
+   "c": "BCS311",
+   "k": "exam"
+  },
+  {
+   "d": "2026-11-16",
+   "t": "Labs 9 & 10 to TAs (draft ready in Outlook – waiting for your OK)",
+   "c": "BCS311",
+   "k": "task"
   }
  ],
  "tasks": [
   {
-   "t": "Read 'Assessment Schedule' email → fix Quiz 2 / Lab Final dates, then draft student announcements (Outlook has no account / web offline)",
+   "t": "Review Outlook drafts (TA email Labs 9/10; BCS311 student announcement) and tell me to send",
    "p": "P1",
    "c": "BCS311"
   },
@@ -243,6 +241,7 @@
   "Unsigned review form removed from BCS 402 Moodle folder",
   "Draft: BCS 311 CLO5 assignment, MAI 656 Assignment 2, Lab Final, Quiz 2, three Finals (+ keys)",
   "Draft: Answer Script and Final Exam Review Forms",
-  "Moodle BCS 311 sec 3: appeal-affected midterm 'Low' sample replaced and verified"
+  "Moodle BCS 311 sec 3: appeal-affected midterm 'Low' sample replaced and verified",
+  "Labs 9 & 10 refined (Part 4 challenge removed); TA email drafted in Outlook (not sent)"
  ]
 }
