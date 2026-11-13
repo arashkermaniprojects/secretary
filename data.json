@@ -46,9 +46,37 @@
   },
   {
    "d": "2026-11-24",
-   "t": "BCS 311 Quiz 2 (continued) + Lab Final 24–25 Nov, lab time (announced by email)",
+   "t": "BCS 311 Quiz 2 continues (lecture time)",
    "c": "BCS311",
    "k": "exam"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "BCS 311 Lab Final, Lec4, 09:00, HUB-118 Robotic Lab (Hussein Aboueldahab) – computer based, Version A",
+   "c": "BCS311",
+   "k": "exam",
+   "tbc": true
+  },
+  {
+   "d": "2026-11-24",
+   "t": "BCS 311 Lab Final, Lec3, 17:00, HUB-118 Robotic Lab (Dr. Arash) – computer based, Version A",
+   "c": "BCS311",
+   "k": "exam",
+   "tbc": true
+  },
+  {
+   "d": "2026-11-24",
+   "t": "BCS 311 Lab Final, Lec2 – slot to confirm (regular lab is Monday 09:00, HUB-118; Ahmed Seyam) – Version A",
+   "c": "BCS311",
+   "k": "exam",
+   "tbc": true
+  },
+  {
+   "d": "2026-11-25",
+   "t": "BCS 311 Lab Final, Lec1, 15:00, HUB-117 Software Lab (Dr. Arash) – computer based, Version B",
+   "c": "BCS311",
+   "k": "exam",
+   "tbc": true
   },
   {
    "d": "2026-12-03",
