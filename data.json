@@ -148,11 +148,6 @@
    "c": "BCS311"
   },
   {
-   "t": "Reconnect Claude-in-Chrome extension (disconnected) – needed for Moodle/portal work",
-   "p": "P1",
-   "c": "Secretary"
-  },
-  {
    "t": "Master degree programs proposal – Dr. Firuz finished his part; find my part in his email",
    "p": "P1",
    "c": "Admin"
@@ -163,9 +158,9 @@
    "c": "All"
   },
   {
-   "t": "Moodle BCS 311 sec 3 (folder 6): swap appeal-affected midterm 'Low' sample – new file ready, upload blocked (Chrome extension disconnected after login change); check BCS 402 samples for appeal notes",
+   "t": "Check BCS 402 graded samples on Moodle for appeal/regrade notes (BCS 311 sec 3 sample already replaced)",
    "p": "P1",
-   "c": "BCS311"
+   "c": "BCS402"
   },
   {
    "t": "Final Exam Review Forms: send my part to reviewers (drafts ready)",
@@ -247,6 +242,7 @@
   "Moodle folders 3, 4, 6 (Quiz 1 + Midterm) – BCS 402 and BCS 311 sections 1–4",
   "Unsigned review form removed from BCS 402 Moodle folder",
   "Draft: BCS 311 CLO5 assignment, MAI 656 Assignment 2, Lab Final, Quiz 2, three Finals (+ keys)",
-  "Draft: Answer Script and Final Exam Review Forms"
+  "Draft: Answer Script and Final Exam Review Forms",
+  "Moodle BCS 311 sec 3: appeal-affected midterm 'Low' sample replaced and verified"
  ]
 }
