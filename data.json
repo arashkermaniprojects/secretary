@@ -148,6 +148,11 @@
    "c": "BCS311"
   },
   {
+   "t": "Reconnect Claude-in-Chrome extension (disconnected) – needed for Moodle/portal work",
+   "p": "P1",
+   "c": "Secretary"
+  },
+  {
    "t": "Master degree programs proposal – Dr. Firuz finished his part; find my part in his email",
    "p": "P1",
    "c": "Admin"
@@ -158,7 +163,7 @@
    "c": "All"
   },
   {
-   "t": "Replace appeal-affected graded sample on Moodle (BCS 311 sec 3, midterm Low); check BCS 402 samples for appeal notes",
+   "t": "Moodle BCS 311 sec 3 (folder 6): swap appeal-affected midterm 'Low' sample – new file ready, upload blocked (Chrome extension disconnected after login change); check BCS 402 samples for appeal notes",
    "p": "P1",
    "c": "BCS311"
   },
