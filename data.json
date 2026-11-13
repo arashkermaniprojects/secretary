@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "events": [
   {
    "d": "2026-11-14",
@@ -14,11 +14,41 @@
    "k": "deadline"
   },
   {
+   "d": "2026-11-16",
+   "t": "Labs 9 & 10 to TAs (draft ready in Outlook – waiting for your OK)",
+   "c": "BCS311",
+   "k": "task"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "Draft the request to the Information and Communication Technology department: disable internet and WiFi in the lab rooms for the computer-based Lab Final (send one working day before each exam, Monday to Thursday)",
+   "c": "BCS311",
+   "k": "task"
+  },
+  {
    "d": "2026-11-23",
    "t": "BCS 311 Assignment (CLO5) issued – proposed",
    "c": "BCS311",
    "k": "task",
    "tbc": true
+  },
+  {
+   "d": "2026-11-23",
+   "t": "BCS 311 Quiz 2 (CLO3+4) – lecture time, 23–24 Nov (announced by email)",
+   "c": "BCS311",
+   "k": "exam"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Latest day to send the Information and Communication Technology request for the Tuesday 24 Nov lab room(s); Moodle Lab Final stays hidden until it starts",
+   "c": "BCS311",
+   "k": "deadline"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "BCS 311 Quiz 2 (continued) + Lab Final 24–25 Nov, lab time (announced by email)",
+   "c": "BCS311",
+   "k": "exam"
   },
   {
    "d": "2026-12-03",
@@ -119,24 +149,6 @@
    "t": "Spring semester starts",
    "c": "All",
    "k": "deadline"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "BCS 311 Quiz 2 (CLO3+4) – lecture time, 23–24 Nov (announced by email)",
-   "c": "BCS311",
-   "k": "exam"
-  },
-  {
-   "d": "2026-11-24",
-   "t": "BCS 311 Quiz 2 (continued) + Lab Final 24–25 Nov, lab time (announced by email)",
-   "c": "BCS311",
-   "k": "exam"
-  },
-  {
-   "d": "2026-11-16",
-   "t": "Labs 9 & 10 to TAs (draft ready in Outlook – waiting for your OK)",
-   "c": "BCS311",
-   "k": "task"
   }
  ],
  "tasks": [
