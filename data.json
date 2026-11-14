@@ -564,22 +564,10 @@
    "k": "task"
   },
   {
-   "d": "2026-11-14",
-   "t": "Open Day (Sunday 15 Nov, 12:00 to 18:00): add your availability in the Excel sheet if you can help (Dr. Sahil covers 12:00-15:00, Dr. Firuz 16:00-18:00)",
-   "c": "Admin",
-   "k": "task"
-  },
-  {
    "d": "2026-11-15",
    "t": "DEADLINE: KPI 3.3 syllabus package. If the industry expert (for NLP: Amirhossein Jamalian) suggested ANY change, send the old and the updated syllabus (changes highlighted) to Dr. MohammadNoor Injadat; if no change, email him to confirm",
    "c": "MAI656",
    "k": "deadline"
-  },
-  {
-   "d": "2026-11-15",
-   "t": "Open Day at the university, 12:00 to 18:00 (faculty support for the Master's program)",
-   "c": "Admin",
-   "k": "event"
   },
   {
    "d": "2026-11-19",
@@ -815,11 +803,6 @@
   },
   {
    "t": "Graduation projects (GP1): find which student groups I must grade, from the emails, lists and Teams folder CNET MT GP1 (Dr. Lobna); report the list to me",
-   "p": "P1",
-   "c": "Admin"
-  },
-  {
-   "t": "Open Day Sunday 15 Nov: mark my availability in the shared Excel 'November 15 Open Day' (Dr. Sahil covers 12–3, Dr. Firuz 4–6): which slot do you choose? I show you the sheet before I fill it",
    "p": "P1",
    "c": "Admin"
   },
