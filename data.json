@@ -184,6 +184,41 @@
    "c": "MAI656",
    "k": "deadline",
    "tbc": true
+  },
+  {
+   "d": "2026-11-16",
+   "t": "BCS 402 Assignment 2 \"At the Board\": announce on Moodle and give each student a problem (draw) – proposed",
+   "c": "BCS402",
+   "k": "task",
+   "tbc": true
+  },
+  {
+   "d": "2026-11-24",
+   "t": "BCS 402 Assignment 2 \"At the Board\": solution PDF due 23:59 on Moodle – proposed",
+   "c": "BCS402",
+   "k": "deadline",
+   "tbc": true
+  },
+  {
+   "d": "2026-11-25",
+   "t": "BCS 402 Assignment 2 \"At the Board\": student presentations, round 1 (8 minutes each) – proposed",
+   "c": "BCS402",
+   "k": "exam",
+   "tbc": true
+  },
+  {
+   "d": "2026-12-02",
+   "t": "BCS 402 Assignment 2 \"At the Board\": student presentations, round 2 – proposed",
+   "c": "BCS402",
+   "k": "exam",
+   "tbc": true
+  },
+  {
+   "d": "2026-12-09",
+   "t": "BCS 402 Assignment 2 \"At the Board\": student presentations, round 3 – proposed",
+   "c": "BCS402",
+   "k": "exam",
+   "tbc": true
   }
  ],
  "tasks": [
