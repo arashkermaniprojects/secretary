@@ -812,6 +812,21 @@
    "t": "Registrar rule (final exams email, 12 Nov): all exams are on campus and paper based; online or computerized exams are not permitted. Check whether this also covers the computer-based BCS 311 Lab Final in Moodle, and get approval from the school if needed",
    "p": "P1",
    "c": "BCS311"
+  },
+  {
+   "t": "Graduation projects (GP1): find which student groups I must grade, from the emails, lists and Teams folder CNET MT GP1 (Dr. Lobna); report the list to me",
+   "p": "P1",
+   "c": "Admin"
+  },
+  {
+   "t": "Open Day Sunday 15 Nov: mark my availability in the shared Excel 'November 15 Open Day' (Dr. Sahil covers 12–3, Dr. Firuz 4–6): which slot do you choose? I show you the sheet before I fill it",
+   "p": "P1",
+   "c": "Admin"
+  },
+  {
+   "t": "Meeting with Dr. Gordon Sekano on Tuesday (Teams invitation sent by me): South Africa is 2 hours behind the UAE (14:30 UAE = 12:30 South Africa); check that the time I proposed to UNESCO Tehran does not clash",
+   "p": "P2",
+   "c": "Grants"
   }
  ],
  "done": [
