@@ -624,6 +624,18 @@
    "c": "BCS311",
    "k": "exam",
    "tbc": true
+  },
+  {
+   "d": "2026-11-23",
+   "t": "Graduation Project 1 (GP1): final report submission deadline for the students (reminder from Dr. Lobna AbuSerrieh); check the Teams faculty folder for templates and rubrics",
+   "c": "Admin",
+   "k": "deadline"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "Graduation Project 1 final presentations, 12:00 to 15:00 (31 groups; full support of all faculty requested; detailed schedule and rubrics will follow)",
+   "c": "Admin",
+   "k": "event"
   }
  ],
  "tasks": [
