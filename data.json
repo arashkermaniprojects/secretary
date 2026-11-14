@@ -5,7 +5,21 @@
    "d": "2026-11-14",
    "t": "MAI 656 class 10:00 – tell students: upload projects; what the Final covers; issue Assignment 2",
    "c": "MAI656",
-   "k": "class"
+   "k": "class",
+   "f": [
+    {
+     "n": "Assignment 2 (opens as PDF)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/NLP/secretary/1_assessments/pdf/MAI656_Assignment_2.pdf"
+    },
+    {
+     "n": "Assignment 2 (Word, editable)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/NLP/secretary/1_assessments/MAI656_Assignment_2.docx"
+    },
+    {
+     "n": "Colab starter notebook (Assignment 2)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/NLP/secretary/1_assessments/MAI656_Assignment2_Colab_Starter.ipynb"
+    }
+   ]
   },
   {
    "d": "2026-11-16",
@@ -30,13 +44,45 @@
    "t": "BCS 311 Assignment (CLO5) issued – proposed",
    "c": "BCS311",
    "k": "task",
-   "tbc": true
+   "tbc": true,
+   "f": [
+    {
+     "n": "Assignment (opens as PDF)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/pdf/BCS311_Assignment_CLO5_ODE.pdf"
+    },
+    {
+     "n": "Assignment (Word, editable)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/BCS311_Assignment_CLO5_ODE.docx"
+    },
+    {
+     "n": "Assignment key",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/BCS311_Assignment_CLO5_ODE_KEY.docx"
+    }
+   ]
   },
   {
    "d": "2026-11-23",
    "t": "BCS 311 Quiz 2 (CLO3+4) – lecture time, 23–24 Nov (announced by email)",
    "c": "BCS311",
-   "k": "exam"
+   "k": "exam",
+   "f": [
+    {
+     "n": "Quiz 2 (opens as PDF)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/pdf/BCS311_Quiz2_FA2026.pdf"
+    },
+    {
+     "n": "Quiz 2 (Word, editable)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/BCS311_Quiz2_FA2026.docx"
+    },
+    {
+     "n": "Quiz 2 key (PDF)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/pdf/BCS311_Quiz2_FA2026_KEY.pdf"
+    },
+    {
+     "n": "Quiz 2 key (Word, editable)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/BCS311_Quiz2_FA2026_KEY.docx"
+    }
+   ]
   },
   {
    "d": "2026-11-23",
@@ -48,49 +94,191 @@
    "d": "2026-11-24",
    "t": "BCS 311 Quiz 2 continues (lecture time)",
    "c": "BCS311",
-   "k": "exam"
+   "k": "exam",
+   "f": [
+    {
+     "n": "Quiz 2 (opens as PDF)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/pdf/BCS311_Quiz2_FA2026.pdf"
+    },
+    {
+     "n": "Quiz 2 (Word, editable)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/BCS311_Quiz2_FA2026.docx"
+    }
+   ]
   },
   {
    "d": "2026-11-24",
    "t": "BCS 311 Lab Final, Lec4, 09:00, HUB-118 Robotic Lab (Hussein Aboueldahab) – computer based, two versions (V1 and V2), students alternate seats",
    "c": "BCS311",
    "k": "exam",
-   "tbc": true
+   "tbc": true,
+   "f": [
+    {
+     "n": "Questions V1 (opens in browser)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/lab_final_moodle/BCS311_LabFinal_Lec4_V1_questions.html"
+    },
+    {
+     "n": "Key V1 (instructor only)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/lab_final_moodle/BCS311_LabFinal_Lec4_V1_KEY.html"
+    },
+    {
+     "n": "Moodle import V1",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/lab_final_moodle/BCS311_LabFinal_Lec4_V1_CodeRunner.xml"
+    },
+    {
+     "n": "Questions V2 (opens in browser)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/lab_final_moodle/BCS311_LabFinal_Lec4_V2_questions.html"
+    },
+    {
+     "n": "Key V2 (instructor only)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/lab_final_moodle/BCS311_LabFinal_Lec4_V2_KEY.html"
+    },
+    {
+     "n": "Moodle import V2",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/lab_final_moodle/BCS311_LabFinal_Lec4_V2_CodeRunner.xml"
+    }
+   ]
   },
   {
    "d": "2026-11-24",
    "t": "BCS 311 Lab Final, Lec3, 17:00, HUB-118 Robotic Lab (Dr. Arash) – computer based, two versions (V1 and V2), students alternate seats",
    "c": "BCS311",
    "k": "exam",
-   "tbc": true
+   "tbc": true,
+   "f": [
+    {
+     "n": "Questions V1 (opens in browser)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/lab_final_moodle/BCS311_LabFinal_Lec3_V1_questions.html"
+    },
+    {
+     "n": "Key V1 (instructor only)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/lab_final_moodle/BCS311_LabFinal_Lec3_V1_KEY.html"
+    },
+    {
+     "n": "Moodle import V1",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/lab_final_moodle/BCS311_LabFinal_Lec3_V1_CodeRunner.xml"
+    },
+    {
+     "n": "Questions V2 (opens in browser)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/lab_final_moodle/BCS311_LabFinal_Lec3_V2_questions.html"
+    },
+    {
+     "n": "Key V2 (instructor only)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/lab_final_moodle/BCS311_LabFinal_Lec3_V2_KEY.html"
+    },
+    {
+     "n": "Moodle import V2",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/lab_final_moodle/BCS311_LabFinal_Lec3_V2_CodeRunner.xml"
+    }
+   ]
   },
   {
    "d": "2026-11-24",
    "t": "BCS 311 Lab Final, Lec2 – slot to confirm (regular lab is Monday 09:00, HUB-118; Ahmed Seyam) – computer based, two versions (V1 and V2)",
    "c": "BCS311",
    "k": "exam",
-   "tbc": true
+   "tbc": true,
+   "f": [
+    {
+     "n": "Questions V1 (opens in browser)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/lab_final_moodle/BCS311_LabFinal_Lec2_V1_questions.html"
+    },
+    {
+     "n": "Key V1 (instructor only)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/lab_final_moodle/BCS311_LabFinal_Lec2_V1_KEY.html"
+    },
+    {
+     "n": "Moodle import V1",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/lab_final_moodle/BCS311_LabFinal_Lec2_V1_CodeRunner.xml"
+    },
+    {
+     "n": "Questions V2 (opens in browser)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/lab_final_moodle/BCS311_LabFinal_Lec2_V2_questions.html"
+    },
+    {
+     "n": "Key V2 (instructor only)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/lab_final_moodle/BCS311_LabFinal_Lec2_V2_KEY.html"
+    },
+    {
+     "n": "Moodle import V2",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/lab_final_moodle/BCS311_LabFinal_Lec2_V2_CodeRunner.xml"
+    }
+   ]
   },
   {
    "d": "2026-11-25",
    "t": "BCS 311 Lab Final, Lec1, 15:00, HUB-117 Software Lab (Dr. Arash) – computer based, two versions (V1 and V2), students alternate seats",
    "c": "BCS311",
    "k": "exam",
-   "tbc": true
+   "tbc": true,
+   "f": [
+    {
+     "n": "Questions V1 (opens in browser)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/lab_final_moodle/BCS311_LabFinal_Lec1_V1_questions.html"
+    },
+    {
+     "n": "Key V1 (instructor only)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/lab_final_moodle/BCS311_LabFinal_Lec1_V1_KEY.html"
+    },
+    {
+     "n": "Moodle import V1",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/lab_final_moodle/BCS311_LabFinal_Lec1_V1_CodeRunner.xml"
+    },
+    {
+     "n": "Questions V2 (opens in browser)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/lab_final_moodle/BCS311_LabFinal_Lec1_V2_questions.html"
+    },
+    {
+     "n": "Key V2 (instructor only)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/lab_final_moodle/BCS311_LabFinal_Lec1_V2_KEY.html"
+    },
+    {
+     "n": "Moodle import V2",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/lab_final_moodle/BCS311_LabFinal_Lec1_V2_CodeRunner.xml"
+    }
+   ]
   },
   {
    "d": "2026-12-03",
    "t": "MAI 656 Assignment 2 due 23:59 – proposed",
    "c": "MAI656",
    "k": "deadline",
-   "tbc": true
+   "tbc": true,
+   "f": [
+    {
+     "n": "Assignment 2 (opens as PDF)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/NLP/secretary/1_assessments/pdf/MAI656_Assignment_2.pdf"
+    },
+    {
+     "n": "Assignment 2 (Word, editable)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/NLP/secretary/1_assessments/MAI656_Assignment_2.docx"
+    },
+    {
+     "n": "Colab starter notebook (Assignment 2)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/NLP/secretary/1_assessments/MAI656_Assignment2_Colab_Starter.ipynb"
+    }
+   ]
   },
   {
    "d": "2026-12-04",
    "t": "MAI 656 individual project report due 23:59 – upload in the Moodle assignment (proposed)",
    "c": "MAI656",
    "k": "deadline",
-   "tbc": true
+   "tbc": true,
+   "f": [
+    {
+     "n": "Project brief (opens as PDF)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/NLP/secretary/1_assessments/pdf/MAI656_Individual_Project_Brief.pdf"
+    },
+    {
+     "n": "Project brief (Word, editable)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/NLP/secretary/1_assessments/MAI656_Individual_Project_Brief.docx"
+    },
+    {
+     "n": "Cover page template",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/NLP/secretary/1_assessments/MAI656_Individual_Project_Cover_Page.docx"
+    }
+   ]
   },
   {
    "d": "2026-12-05",
@@ -104,7 +292,21 @@
    "t": "BCS 311 Assignment due 23:59 – proposed",
    "c": "BCS311",
    "k": "deadline",
-   "tbc": true
+   "tbc": true,
+   "f": [
+    {
+     "n": "Assignment (opens as PDF)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/pdf/BCS311_Assignment_CLO5_ODE.pdf"
+    },
+    {
+     "n": "Assignment (Word, editable)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/BCS311_Assignment_CLO5_ODE.docx"
+    },
+    {
+     "n": "Assignment key",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/BCS311_Assignment_CLO5_ODE_KEY.docx"
+    }
+   ]
   },
   {
    "d": "2026-12-11",
@@ -122,7 +324,29 @@
    "d": "2026-12-13",
    "t": "MAI 656 FINAL 15:30 – HUB Yard Zone A",
    "c": "MAI656",
-   "k": "exam"
+   "k": "exam",
+   "f": [
+    {
+     "n": "Final (opens as PDF)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/NLP/secretary/1_assessments/pdf/MAI656_Final_FA2026.pdf"
+    },
+    {
+     "n": "Final (Word, editable)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/NLP/secretary/1_assessments/MAI656_Final_FA2026.docx"
+    },
+    {
+     "n": "Key (PDF)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/NLP/secretary/1_assessments/pdf/MAI656_Final_FA2026_KEY.pdf"
+    },
+    {
+     "n": "Key (Word, editable)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/NLP/secretary/1_assessments/MAI656_Final_FA2026_KEY.docx"
+    },
+    {
+     "n": "Review form",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/NLP/secretary/2_review_forms/2026_FA_MAI_656_Final_Exam_Review-Form_DRAFT.docx"
+    }
+   ]
   },
   {
    "d": "2026-12-13",
@@ -134,7 +358,29 @@
    "d": "2026-12-14",
    "t": "BCS 402 FINAL 12:30 – HUB-123",
    "c": "BCS402",
-   "k": "exam"
+   "k": "exam",
+   "f": [
+    {
+     "n": "Final (opens as PDF)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Computability%20and%20complexity/secretary/1_assessments/pdf/BCS402_Final_FA2026.pdf"
+    },
+    {
+     "n": "Final (Word, editable)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Computability%20and%20complexity/secretary/1_assessments/BCS402_Final_FA2026.docx"
+    },
+    {
+     "n": "Key (PDF)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Computability%20and%20complexity/secretary/1_assessments/pdf/BCS402_Final_FA2026_KEY.pdf"
+    },
+    {
+     "n": "Key (Word, editable)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Computability%20and%20complexity/secretary/1_assessments/BCS402_Final_FA2026_KEY.docx"
+    },
+    {
+     "n": "Review form",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Computability%20and%20complexity/secretary/2_review_forms/2026_FA_BCS_402_Final_Exam_Review-Form_DRAFT.docx"
+    }
+   ]
   },
   {
    "d": "2026-12-14",
@@ -152,7 +398,29 @@
    "d": "2026-12-19",
    "t": "BCS 311 FINAL 15:30 – HUB-111/114/112/101",
    "c": "BCS311",
-   "k": "exam"
+   "k": "exam",
+   "f": [
+    {
+     "n": "Final (opens as PDF)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/pdf/BCS311_Final_FA2026.pdf"
+    },
+    {
+     "n": "Final (Word, editable)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/BCS311_Final_FA2026.docx"
+    },
+    {
+     "n": "Key (PDF)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/pdf/BCS311_Final_FA2026_KEY.pdf"
+    },
+    {
+     "n": "Key (Word, editable)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/BCS311_Final_FA2026_KEY.docx"
+    },
+    {
+     "n": "Review form",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/2_review_forms/2026_FA_BCS_311_Final_Exam_Review-Form_DRAFT.docx"
+    }
+   ]
   },
   {
    "d": "2026-12-19",
@@ -183,37 +451,117 @@
    "t": "MAI 656 individual project: students send a one-paragraph topic (approval) – proposed",
    "c": "MAI656",
    "k": "deadline",
-   "tbc": true
+   "tbc": true,
+   "f": [
+    {
+     "n": "Project brief (opens as PDF)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/NLP/secretary/1_assessments/pdf/MAI656_Individual_Project_Brief.pdf"
+    },
+    {
+     "n": "Project brief (Word, editable)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/NLP/secretary/1_assessments/MAI656_Individual_Project_Brief.docx"
+    }
+   ]
   },
   {
    "d": "2026-11-16",
    "t": "BCS 402 Assignment 2 \"At the Board\": announce on Moodle and give each student a problem (draw) – approved",
    "c": "BCS402",
-   "k": "task"
+   "k": "task",
+   "f": [
+    {
+     "n": "Assignment 2 (opens as PDF)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Computability%20and%20complexity/secretary/1_assessments/pdf/BCS402_Assignment2_AtTheBoard.pdf"
+    },
+    {
+     "n": "Solution outlines (PDF, instructor only)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Computability%20and%20complexity/secretary/1_assessments/pdf/BCS402_Assignment2_AtTheBoard_KEY.pdf"
+    },
+    {
+     "n": "Assignment 2 (Word, editable)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Computability%20and%20complexity/secretary/1_assessments/BCS402_Assignment2_AtTheBoard.docx"
+    }
+   ]
   },
   {
    "d": "2026-11-24",
    "t": "BCS 402 Assignment 2 \"At the Board\": solution PDF due 23:59 on Moodle – approved",
    "c": "BCS402",
-   "k": "deadline"
+   "k": "deadline",
+   "f": [
+    {
+     "n": "Assignment 2 (opens as PDF)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Computability%20and%20complexity/secretary/1_assessments/pdf/BCS402_Assignment2_AtTheBoard.pdf"
+    },
+    {
+     "n": "Solution outlines (PDF, instructor only)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Computability%20and%20complexity/secretary/1_assessments/pdf/BCS402_Assignment2_AtTheBoard_KEY.pdf"
+    },
+    {
+     "n": "Assignment 2 (Word, editable)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Computability%20and%20complexity/secretary/1_assessments/BCS402_Assignment2_AtTheBoard.docx"
+    }
+   ]
   },
   {
    "d": "2026-11-25",
    "t": "BCS 402 Assignment 2 \"At the Board\": student presentations, round 1 (8 minutes each) – approved",
    "c": "BCS402",
-   "k": "exam"
+   "k": "exam",
+   "f": [
+    {
+     "n": "Assignment 2 (opens as PDF)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Computability%20and%20complexity/secretary/1_assessments/pdf/BCS402_Assignment2_AtTheBoard.pdf"
+    },
+    {
+     "n": "Solution outlines (PDF, instructor only)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Computability%20and%20complexity/secretary/1_assessments/pdf/BCS402_Assignment2_AtTheBoard_KEY.pdf"
+    },
+    {
+     "n": "Assignment 2 (Word, editable)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Computability%20and%20complexity/secretary/1_assessments/BCS402_Assignment2_AtTheBoard.docx"
+    }
+   ]
   },
   {
    "d": "2026-12-02",
    "t": "BCS 402 Assignment 2 \"At the Board\": student presentations, round 2 – approved",
    "c": "BCS402",
-   "k": "exam"
+   "k": "exam",
+   "f": [
+    {
+     "n": "Assignment 2 (opens as PDF)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Computability%20and%20complexity/secretary/1_assessments/pdf/BCS402_Assignment2_AtTheBoard.pdf"
+    },
+    {
+     "n": "Solution outlines (PDF, instructor only)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Computability%20and%20complexity/secretary/1_assessments/pdf/BCS402_Assignment2_AtTheBoard_KEY.pdf"
+    },
+    {
+     "n": "Assignment 2 (Word, editable)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Computability%20and%20complexity/secretary/1_assessments/BCS402_Assignment2_AtTheBoard.docx"
+    }
+   ]
   },
   {
    "d": "2026-12-09",
    "t": "BCS 402 Assignment 2 \"At the Board\": student presentations, round 3 – approved",
    "c": "BCS402",
-   "k": "exam"
+   "k": "exam",
+   "f": [
+    {
+     "n": "Assignment 2 (opens as PDF)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Computability%20and%20complexity/secretary/1_assessments/pdf/BCS402_Assignment2_AtTheBoard.pdf"
+    },
+    {
+     "n": "Solution outlines (PDF, instructor only)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Computability%20and%20complexity/secretary/1_assessments/pdf/BCS402_Assignment2_AtTheBoard_KEY.pdf"
+    },
+    {
+     "n": "Assignment 2 (Word, editable)",
+     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Computability%20and%20complexity/secretary/1_assessments/BCS402_Assignment2_AtTheBoard.docx"
+    }
+   ]
   },
   {
    "d": "2026-11-16",
