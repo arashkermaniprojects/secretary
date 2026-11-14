@@ -568,6 +568,43 @@
    "t": "Reminder: get the already taken Midterm exams and their graded samples approved by Dr. Sahil Garg (he approved the exams before they were taken but has not filled in the forms). Needed: Midterm Examination Review Form with his name for BCS 311 and for BCS 402, plus the Answer Script Review Forms (samples) for both",
    "c": "BCS311",
    "k": "task"
+  },
+  {
+   "d": "2026-11-14",
+   "t": "Open Day (Sunday 15 Nov, 12:00 to 18:00): add your availability in the Excel sheet if you can help (Dr. Sahil covers 12:00-15:00, Dr. Firuz 16:00-18:00)",
+   "c": "Admin",
+   "k": "task"
+  },
+  {
+   "d": "2026-11-15",
+   "t": "DEADLINE: KPI 3.3 syllabus package. If the industry expert (for NLP: Amirhossein Jamalian) suggested ANY change, send the old and the updated syllabus (changes highlighted) to Dr. MohammadNoor Injadat; if no change, email him to confirm",
+   "c": "MAI656",
+   "k": "deadline"
+  },
+  {
+   "d": "2026-11-15",
+   "t": "Open Day at the university, 12:00 to 18:00 (faculty support for the Master's program)",
+   "c": "Admin",
+   "k": "event"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "Curriculum committee meeting (KPI 3.3 syllabi) 14:00 – verify time in Outlook (earlier mail said Thu 12 Nov 13:00 on Teams)",
+   "c": "Admin",
+   "k": "event",
+   "tbc": true
+  },
+  {
+   "d": "2026-11-20",
+   "t": "School of Engineering family gathering (barbecue, Mirdif Park, Friday 20 Nov) – invitation, optional",
+   "c": "Admin",
+   "k": "event"
+  },
+  {
+   "d": "2026-12-18",
+   "t": "ICAMAC 2026 conference (virtual, 18-19 Dec): my paper ‘Black-Box Knowledge Distillation for Arabic Handwritten Text Recognition’ (Paper ID 92) is accepted for oral presentation. 19 Dec clashes with the BCS 311 final (15:30)",
+   "c": "Research",
+   "k": "event"
   }
  ],
  "tasks": [
@@ -665,6 +702,31 @@
    "t": "Phone push reminders: needs Remote Control; set up daily brief",
    "p": "P3",
    "c": "Secretary"
+  },
+  {
+   "t": "ICAMAC 2026 paper accepted (Paper ID 92): read the 4 mandatory steps in the email (camera-ready revision, registration and payment, ...) and find the deadlines",
+   "p": "P1",
+   "c": "Research"
+  },
+  {
+   "t": "Request for a recommendation letter from a former student (external): decide and reply; he sent certificates on Wed 11 Nov",
+   "p": "P2",
+   "c": "Admin"
+  },
+  {
+   "t": "Student emails not yet read in detail: makeup quiz, advising meeting request, absence notes, attendance and midterm questions (BCS 311, BCS 402) – read and answer",
+   "p": "P1",
+   "c": "BCS311"
+  },
+  {
+   "t": "Emails not yet read: InnoVision 2026 security clearance documents (you are mentioned, attachments), lunch with the graduation-project students, meeting request to explore collaboration (forwarded), student affairs AI video competition",
+   "p": "P2",
+   "c": "Admin"
+  },
+  {
+   "t": "‘Light weight LMS and interactive teaching material’ meeting (12 Nov) was cancelled by Prof. Samy: reschedule if needed",
+   "p": "P3",
+   "c": "Admin"
   }
  ],
  "done": [
