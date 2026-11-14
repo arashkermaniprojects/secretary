@@ -663,11 +663,6 @@
    "c": "BCS402"
   },
   {
-   "t": "Moodle course files for finished assessments (Quiz 1, Midterm samples are in) and everything else uploadable (syllabus, teaching materials, attendance, analysis, graded samples): stage locally, show you the files, then upload after your yes",
-   "p": "P2",
-   "c": "All"
-  },
-  {
    "t": "CUD portal: CLO data, exam definitions, grade Excel upload (needs portal session)",
    "p": "P2",
    "c": "All"
@@ -806,6 +801,16 @@
    "t": "ICT: wait for the reply to my request (internet off in HUB-117 and HUB-118 during the Lab Finals; Safe Exam Browser installed on the lab computers; a test slot). Chase on Thu 19 Nov if there is no answer",
    "p": "P1",
    "c": "BCS311"
+  },
+  {
+   "t": "Moodle course files still open: teaching materials for BCS 402 (slides) and MAI 656 (notebooks + lecture link); grade analysis and attendance at the end of the semester; samples for new assessments when graded",
+   "p": "P2",
+   "c": "All"
+  },
+  {
+   "t": "NLP Assignment 2 is posted: announce it to the students, and decide how they register their DIFFERENT model pair (Moodle forum or Choice)",
+   "p": "P1",
+   "c": "MAI656"
   }
  ],
  "done": [
@@ -820,6 +825,8 @@
   "Telegram link to the Secretary works in both directions, including voice messages (14 Nov)",
   "Makeup quiz invitation (Fri 13 Nov 9:00), advising-meeting answer and Hisham's question answered (sent)",
   "Replies sent: SEAST gathering to Reem (1 person) and the meeting proposal to UNESCO Tehran (Tue 17 Nov, 14:30 or 11:00 UAE time); Labs 9 and 10 both visible on Moodle for lab sections 1 and 3 (14 Nov)",
-  "Email to ICT sent: internet off in the labs during the Lab Final exams (Moodle reachable, Safe Exam Browser to be confirmed); waiting for their confirmation and a test slot (14 Nov)"
+  "Email to ICT sent: internet off in the labs during the Lab Final exams (Moodle reachable, Safe Exam Browser to be confirmed); waiting for their confirmation and a test slot (14 Nov)",
+  "NLP Assignment 2 (Ethical LLM) posted on Moodle, visible, due Thu 3 Dec 23:59, with the student sheet and the Colab starter notebook (14 Nov)",
+  "Moodle course files: syllabi uploaded for all six course pages; teaching materials (course website) uploaded for the four BCS 311 sections (14 Nov)"
  ]
 }
