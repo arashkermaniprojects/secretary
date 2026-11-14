@@ -682,7 +682,7 @@
    "c": "BCS402"
   },
   {
-   "t": "Moodle course files: folders 1–2 (syllabus, teaching material) for all shells; check BCS 311 lab shells",
+   "t": "Moodle course files for finished assessments (Quiz 1, Midterm samples are in) and everything else uploadable (syllabus, teaching materials, attendance, analysis, graded samples): stage locally, show you the files, then upload after your yes",
    "p": "P2",
    "c": "All"
   },
@@ -772,7 +772,7 @@
    "c": "Admin"
   },
   {
-   "t": "ICAMAC: TWO papers, ID 92 (Black-Box Knowledge Distillation for Arabic Handwritten Text Recognition) and ID 94 (Hierarchical IoT Intent Classification). Registration and payment: done for 92 (USD 200); organiser made a single registration for 94 as the second paper (check the confirmation). Still open for BOTH by 18 Nov: camera-ready PDF checked with IEEE PDF eXpress, IEEE copyright form, upload in CMT3",
+   "t": "ICAMAC: TWO papers, ID 92 (Black-Box Knowledge Distillation for Arabic Handwritten Text Recognition) and ID 94 (Hierarchical IoT Intent Classification). Registration and payment: done for 92 (USD 200); organiser made a single registration for 94 as the second paper (check the confirmation). Still open for BOTH by 18 Nov: camera-ready PDF checked with IEEE PDF eXpress, IEEE copyright form, upload in CMT3. Files: both papers are in Publication/Farnaz-RIT (92 in NLP, 94 in Hamza/edited_2026-09-14). Paper 92 has the IEEE copyright notice on page 1; paper 94 does NOT yet (6 pages, fonts embedded)",
    "p": "P1",
    "c": "Research"
   },
