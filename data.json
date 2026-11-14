@@ -29,7 +29,7 @@
   },
   {
    "d": "2026-11-19",
-   "t": "Draft the request to the Information and Communication Technology department: disable internet and WiFi in the lab rooms for the computer-based Lab Final (send one working day before each exam, Monday to Thursday)",
+   "t": "Draft the request to the Information and Communication Technology department: disable internet and WiFi in HUB-118 (Lab Finals Mon 23 and Tue 24 Nov) and HUB-117 (Wed 25 Nov); send by Thu 19 Nov (one working day before the first exam)",
    "c": "BCS311",
    "k": "task"
   },
@@ -167,11 +167,10 @@
    ]
   },
   {
-   "d": "2026-11-24",
-   "t": "BCS 311 Lab Final, Lec2 – slot to confirm (regular lab is Monday 09:00, HUB-118; Ahmed Seyam) – computer based, two versions (V1 and V2)",
+   "d": "2026-11-23",
+   "t": "BCS 311 Lab Final, Lec2, 09:00 (normal lab slot), HUB-118 Robotic Lab (Ahmed Seyam) – computer based, two versions, students alternate seats",
    "c": "BCS311",
    "k": "exam",
-   "tbc": true,
    "f": [
     {
      "n": "Questions V1 (opens in browser)",
