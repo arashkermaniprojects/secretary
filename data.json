@@ -28,12 +28,6 @@
    "k": "deadline"
   },
   {
-   "d": "2026-11-19",
-   "t": "Draft the request to the Information and Communication Technology department: disable internet and WiFi in HUB-118 (Lab Finals Mon 23 and Tue 24 Nov) and HUB-117 (Wed 25 Nov); send by Thu 19 Nov (one working day before the first exam)",
-   "c": "BCS311",
-   "k": "task"
-  },
-  {
    "d": "2026-11-23",
    "t": "BCS 311 Assignment (CLO5) issued – proposed",
    "c": "BCS311",
@@ -77,12 +71,6 @@
      "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Scientific%20Computing/secretary/1_assessments/BCS311_Quiz2_FA2026_KEY.docx"
     }
    ]
-  },
-  {
-   "d": "2026-11-23",
-   "t": "Latest day to send the Information and Communication Technology request for the Tuesday 24 Nov lab room(s); Moodle Lab Final stays hidden until it starts",
-   "c": "BCS311",
-   "k": "deadline"
   },
   {
    "d": "2026-11-24",
@@ -813,6 +801,11 @@
    "t": "CLO reports: take them from the faculty portal (not MyCUD); I open the pages, you log in",
    "p": "P2",
    "c": "All"
+  },
+  {
+   "t": "ICT: wait for the reply to my request (internet off in HUB-117 and HUB-118 during the Lab Finals; Safe Exam Browser installed on the lab computers; a test slot). Chase on Thu 19 Nov if there is no answer",
+   "p": "P1",
+   "c": "BCS311"
   }
  ],
  "done": [
@@ -826,6 +819,7 @@
   "Moodle: Lab 10 (visible) and Lab 9 (hidden until its lecture) posted in BCS 311 lab sections 1 and 3, open the whole lab day until 11:59 PM (14 Nov)",
   "Telegram link to the Secretary works in both directions, including voice messages (14 Nov)",
   "Makeup quiz invitation (Fri 13 Nov 9:00), advising-meeting answer and Hisham's question answered (sent)",
-  "Replies sent: SEAST gathering to Reem (1 person) and the meeting proposal to UNESCO Tehran (Tue 17 Nov, 14:30 or 11:00 UAE time); Labs 9 and 10 both visible on Moodle for lab sections 1 and 3 (14 Nov)"
+  "Replies sent: SEAST gathering to Reem (1 person) and the meeting proposal to UNESCO Tehran (Tue 17 Nov, 14:30 or 11:00 UAE time); Labs 9 and 10 both visible on Moodle for lab sections 1 and 3 (14 Nov)",
+  "Email to ICT sent: internet off in the labs during the Lab Final exams (Moodle reachable, Safe Exam Browser to be confirmed); waiting for their confirmation and a test slot (14 Nov)"
  ]
 }
