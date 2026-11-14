@@ -615,27 +615,21 @@
   },
   {
    "d": "2026-11-16",
-   "t": "BCS 311 Lab 10 (differential equations): Lec2 lab, 09:00 HUB-118 (Ahmed Seyam)",
+   "t": "BCS 311 Labs 9 and 10 (differential equations): Lec2 lab, 09:00 HUB-118 (Ahmed Seyam)",
    "c": "BCS311",
    "k": "class"
   },
   {
    "d": "2026-11-17",
-   "t": "BCS 311 Lab 10: Lec4 lab 09:00 HUB-118 (Hussein Aboueldahab); Lec3 lab 17:00 HUB-118 (Dr. Arash). Moodle open the whole day until 23:59",
+   "t": "BCS 311 Labs 9 and 10: Lec4 lab 09:00 HUB-118 (Hussein Aboueldahab); Lec3 lab 17:00 HUB-118 (Dr. Arash). Moodle open the whole day until 23:59",
    "c": "BCS311",
    "k": "class"
   },
   {
    "d": "2026-11-18",
-   "t": "BCS 311 Lab 10: Lec1 lab 15:00 HUB-117 (Dr. Arash). Moodle open the whole day until 23:59",
+   "t": "BCS 311 Labs 9 and 10: Lec1 lab 15:00 HUB-117 (Dr. Arash). Moodle open the whole day until 23:59",
    "c": "BCS311",
    "k": "class"
-  },
-  {
-   "d": "2026-11-23",
-   "t": "BCS 311 Lab 09 (interpolation and curve fitting) planned for next week; its lecture is not given yet. CONFLICT: 24–25 Nov lab time is the Lab Final: decide the date",
-   "c": "BCS311",
-   "k": "deadline"
   },
   {
    "d": "2026-11-18",
@@ -722,7 +716,7 @@
    "c": "Grants"
   },
   {
-   "t": "New Labs 9 and 10: run once in MATLAB Online; post them in the TA lab sections 2 and 4 on Moodle (I have no access); show Lab 9 on Moodle after its lecture; decide Lab 9 date because next week's lab time is the Lab Final (24–25 Nov)",
+   "t": "New Labs 9 and 10 are both on Moodle for lab sections 1 and 3 (visible, due the end of the lab day this week: Tue 17 and Wed 18 Nov). Open: run them once in MATLAB Online; tell the TAs by WhatsApp that BOTH labs are this week (my email said Lab 9 next week); post them in TA sections 2 and 4 (no access for me)",
    "p": "P2",
    "c": "BCS311"
   },
@@ -822,6 +816,7 @@
   "New Lab 9 (curve fitting, CLO4) and Lab 10 (differential equations, CLO5) written with solutions and checked; sent to both TAs, with a follow-up: Lab 10 this week, Lab 9 next week (14 Nov)",
   "Moodle: Lab 10 (visible) and Lab 9 (hidden until its lecture) posted in BCS 311 lab sections 1 and 3, open the whole lab day until 11:59 PM (14 Nov)",
   "Telegram link to the Secretary works in both directions, including voice messages (14 Nov)",
-  "Makeup quiz invitation (Fri 13 Nov 9:00), advising-meeting answer and Hisham's question answered (sent)"
+  "Makeup quiz invitation (Fri 13 Nov 9:00), advising-meeting answer and Hisham's question answered (sent)",
+  "Replies sent: SEAST gathering to Reem (1 person) and the meeting proposal to UNESCO Tehran (Tue 17 Nov, 14:30 or 11:00 UAE time); Labs 9 and 10 both visible on Moodle for lab sections 1 and 3 (14 Nov)"
  ]
 }
