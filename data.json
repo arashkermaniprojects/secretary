@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "events": [
   {
    "d": "2026-11-14",
@@ -446,7 +446,7 @@
   },
   {
    "d": "2026-11-16",
-   "t": "BCS 402 Assignment 2 \"At the Board\": announce on Moodle and give each student a problem (draw) – approved",
+   "t": "BCS 402 Assignment 2 \"At the Board\": done on 15 Nov (Moodle posted, student email sent). Next: draw a problem number for each student in class",
    "c": "BCS402",
    "k": "task",
    "f": [
@@ -465,70 +465,10 @@
    ]
   },
   {
-   "d": "2026-11-24",
-   "t": "BCS 402 Assignment 2 \"At the Board\": solution PDF due 23:59 on Moodle – approved",
+   "d": "2026-11-27",
+   "t": "BCS 402 Assignment 2 \"At the Board\": solution PDF due 23:59 on Moodle (Dr. Arash approved 27 Nov; the Moodle assignment and the student emails are done; presentation dates not fixed yet)",
    "c": "BCS402",
    "k": "deadline",
-   "f": [
-    {
-     "n": "Assignment 2 (opens as PDF)",
-     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Computability%20and%20complexity/secretary/1_assessments/pdf/BCS402_Assignment2_AtTheBoard.pdf"
-    },
-    {
-     "n": "Solution outlines (PDF, instructor only)",
-     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Computability%20and%20complexity/secretary/1_assessments/pdf/BCS402_Assignment2_AtTheBoard_KEY.pdf"
-    },
-    {
-     "n": "Assignment 2 (Word, editable)",
-     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Computability%20and%20complexity/secretary/1_assessments/BCS402_Assignment2_AtTheBoard.docx"
-    }
-   ]
-  },
-  {
-   "d": "2026-11-25",
-   "t": "BCS 402 Assignment 2 \"At the Board\": student presentations, round 1 (8 minutes each) – approved",
-   "c": "BCS402",
-   "k": "exam",
-   "f": [
-    {
-     "n": "Assignment 2 (opens as PDF)",
-     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Computability%20and%20complexity/secretary/1_assessments/pdf/BCS402_Assignment2_AtTheBoard.pdf"
-    },
-    {
-     "n": "Solution outlines (PDF, instructor only)",
-     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Computability%20and%20complexity/secretary/1_assessments/pdf/BCS402_Assignment2_AtTheBoard_KEY.pdf"
-    },
-    {
-     "n": "Assignment 2 (Word, editable)",
-     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Computability%20and%20complexity/secretary/1_assessments/BCS402_Assignment2_AtTheBoard.docx"
-    }
-   ]
-  },
-  {
-   "d": "2026-12-02",
-   "t": "BCS 402 Assignment 2 \"At the Board\": student presentations, round 2 – approved",
-   "c": "BCS402",
-   "k": "exam",
-   "f": [
-    {
-     "n": "Assignment 2 (opens as PDF)",
-     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Computability%20and%20complexity/secretary/1_assessments/pdf/BCS402_Assignment2_AtTheBoard.pdf"
-    },
-    {
-     "n": "Solution outlines (PDF, instructor only)",
-     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Computability%20and%20complexity/secretary/1_assessments/pdf/BCS402_Assignment2_AtTheBoard_KEY.pdf"
-    },
-    {
-     "n": "Assignment 2 (Word, editable)",
-     "u": "https://github.com/arashkermaniprojects/cud-assessments/blob/main/Computability%20and%20complexity/secretary/1_assessments/BCS402_Assignment2_AtTheBoard.docx"
-    }
-   ]
-  },
-  {
-   "d": "2026-12-09",
-   "t": "BCS 402 Assignment 2 \"At the Board\": student presentations, round 3 – approved",
-   "c": "BCS402",
-   "k": "exam",
    "f": [
     {
      "n": "Assignment 2 (opens as PDF)",
@@ -627,6 +567,24 @@
   {
    "d": "2026-11-16",
    "t": "Reply to Reem: attendance at the SEAST gathering on Fri 20 Nov, 4 PM, Mirdif Park (with how many people)",
+   "c": "Admin",
+   "k": "deadline"
+  },
+  {
+   "d": "2026-11-16",
+   "t": "Reply to Prof. Samy El Tawab: Spring 2027 teaching preferences, by 10:00 (not answered yet)",
+   "c": "Admin",
+   "k": "deadline"
+  },
+  {
+   "d": "2026-11-28",
+   "t": "BCS 402 extra time for students who have not yet taken part in the assignment discussions (email sent 15 Nov)",
+   "c": "BCS402",
+   "k": "deadline"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "OVERDUE since 10 Nov: Master of Science in Artificial Intelligence syllabus: corrected syllabus and signed Co-Development Form to the Teams folder (Dr. Sahil Garg, 5 Nov)",
    "c": "Admin",
    "k": "deadline"
   }
@@ -811,6 +769,46 @@
    "t": "Old Outlook draft 'BCS311 - details of the remaining…' still says the Lab Final is on paper: delete it so it is never sent by mistake",
    "p": "P2",
    "c": "BCS311"
+  },
+  {
+   "t": "Reply to Prof. Samy El Tawab: Spring 2027 teaching preferences, deadline Monday 16 Nov 10:00 (email of 13 Nov)",
+   "p": "P1",
+   "c": "Admin"
+  },
+  {
+   "t": "Answer five requests for recommendation letters (October and November; one marked urgent). Open each email, find the deadline and the form, then draft the replies",
+   "p": "P1",
+   "c": "Admin"
+  },
+  {
+   "t": "Master of Science in Artificial Intelligence syllabus revision (Dr. Sahil Garg, 5 Nov): upload corrected syllabus and signed Co-Development Form; deadline was 10 Nov (overdue). Find which course is mine in the Teams folder. Also read: new elective proposal (Dr. Elnashar), Dr. El-Said materials, Revised Program email",
+   "p": "P1",
+   "c": "Admin"
+  },
+  {
+   "t": "BCS 311 incomplete midterm exams (Reem, 29 Oct and 10 Nov) and makeup exam day Thu 19 Nov: check which of my students and what to prepare",
+   "p": "P2",
+   "c": "BCS311"
+  },
+  {
+   "t": "Student course evaluation response rates (Tina Daaboul, 5 Nov): check what I must do",
+   "p": "P2",
+   "c": "Admin"
+  },
+  {
+   "t": "Accreditation data request (Dr. Firuz, 5 Oct): evidence for each collaboration project (agreement, proposal, emails) - check if I answered",
+   "p": "P2",
+   "c": "Admin"
+  },
+  {
+   "t": "Other open emails Oct-Nov: invigilation cover or exemption requests, budget action needed, research funding opportunity, Kamangir collaboration meeting request, Dubai research letter of intent, BSc IEM syllabi (Dr. Gharib), MAI 656 co-delivery (details in TASKS.md)",
+   "p": "P3",
+   "c": "Admin"
+  },
+  {
+   "t": "BCS 402: Assignment 2 is live on Moodle (due 27 Nov); next: draw a problem for each student in class on Mon 16 Nov and fix presentation dates (removed from the sheet)",
+   "p": "P2",
+   "c": "BCS402"
   }
  ],
  "done": [
