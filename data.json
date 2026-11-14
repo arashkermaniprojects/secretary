@@ -633,11 +633,6 @@
  ],
  "tasks": [
   {
-   "t": "Review the Outlook draft for the BCS311 student announcement (it still says the lab final is on paper: must be fixed) and tell me to send",
-   "p": "P1",
-   "c": "BCS311"
-  },
-  {
    "t": "Master degree programs proposal – Dr. Firuz finished his part; find my part in his email",
    "p": "P1",
    "c": "Admin"
@@ -811,6 +806,11 @@
    "t": "NLP Assignment 2 is posted: announce it to the students, and decide how they register their DIFFERENT model pair (Moodle forum or Choice)",
    "p": "P1",
    "c": "MAI656"
+  },
+  {
+   "t": "Old Outlook draft 'BCS311 - details of the remaining…' still says the Lab Final is on paper: delete it so it is never sent by mistake",
+   "p": "P2",
+   "c": "BCS311"
   }
  ],
  "done": [
@@ -827,6 +827,7 @@
   "Replies sent: SEAST gathering to Reem (1 person) and the meeting proposal to UNESCO Tehran (Tue 17 Nov, 14:30 or 11:00 UAE time); Labs 9 and 10 both visible on Moodle for lab sections 1 and 3 (14 Nov)",
   "Email to ICT sent: internet off in the labs during the Lab Final exams (Moodle reachable, Safe Exam Browser to be confirmed); waiting for their confirmation and a test slot (14 Nov)",
   "NLP Assignment 2 (Ethical LLM) posted on Moodle, visible, due Thu 3 Dec 23:59, with the student sheet and the Colab starter notebook (14 Nov)",
-  "Moodle course files: syllabi uploaded for all six course pages; teaching materials (course website) uploaded for the four BCS 311 sections (14 Nov)"
+  "Moodle course files: syllabi uploaded for all six course pages; teaching materials (course website) uploaded for the four BCS 311 sections (14 Nov)",
+  "BCS 311 assignment (rabbits and foxes, CLO5) posted on Moodle in all four sections, due Fri 27 Nov 23:59; announcement of all remaining assessments sent to the four sections through the faculty portal (14 Nov)"
  ]
 }
