@@ -607,12 +607,6 @@
    "k": "event"
   },
   {
-   "d": "2026-11-18",
-   "t": "DEADLINE ICAMAC 2026 (Paper ID 92): camera-ready PDF in CMT3, validated with IEEE PDF eXpress (conference ID 73042X), IEEE copyright form, registration and payment",
-   "c": "Research",
-   "k": "deadline"
-  },
-  {
    "d": "2026-11-19",
    "t": "BCS 311 makeup Midterm for the students with approved Incomplete (three students asked for the 19th) – confirm the time and room, prepare a new version of the paper",
    "c": "BCS311",
@@ -653,6 +647,18 @@
    "d": "2026-11-23",
    "t": "BCS 311 Lab 09 (interpolation and curve fitting) planned for next week; its lecture is not given yet. CONFLICT: 24–25 Nov lab time is the Lab Final: decide the date",
    "c": "BCS311",
+   "k": "deadline"
+  },
+  {
+   "d": "2026-11-18",
+   "t": "DEADLINE ICAMAC 2026 (Paper ID 92): camera-ready PDF in CMT3 (validated with IEEE PDF eXpress, ID 73042X) and IEEE copyright form. Registration and payment already done",
+   "c": "Research",
+   "k": "deadline"
+  },
+  {
+   "d": "2026-11-16",
+   "t": "Reply to Reem: attendance at the SEAST gathering on Fri 20 Nov, 4 PM, Mirdif Park (with how many people)",
+   "c": "Admin",
    "k": "deadline"
   }
  ],
@@ -778,7 +784,7 @@
    "c": "Admin"
   },
   {
-   "t": "Registration of the ICAMAC paper (Paper ID 92) and the IEEE copyright form: done together with the camera-ready deadline of 18 Nov (see schedule)",
+   "t": "ICAMAC paper (Paper ID 92): registration and payment are DONE (you told the organisers on 8 Nov); still open: camera-ready PDF validated with IEEE PDF eXpress, and the IEEE copyright form, both due 18 Nov",
    "p": "P1",
    "c": "Research"
   },
@@ -786,6 +792,26 @@
    "t": "Lunch with the graduation-project team and the OWASP representative (my invitation, all accepted): check the time and place in the Outlook invitation",
    "p": "P3",
    "c": "Admin"
+  },
+  {
+   "t": "SEAST gathering Fri 20 Nov, 4 PM, Mirdif Park (barbecue with families): tell Reem by Monday 16 Nov if you come and with how many people",
+   "p": "P2",
+   "c": "Admin"
+  },
+  {
+   "t": "UNESCO Tehran office (education unit) offered a meeting about the free maths academy: answer whether you are in the country or it must be online, and propose a time",
+   "p": "P2",
+   "c": "Grants"
+  },
+  {
+   "t": "Dr. Gordon Sekano (UNESCO Chair, North-West University): wants a short meeting and to test the offline version of the maths academy: send availability",
+   "p": "P2",
+   "c": "Grants"
+  },
+  {
+   "t": "Registrar rule (final exams email, 12 Nov): all exams are on campus and paper based; online or computerized exams are not permitted. Check whether this also covers the computer-based BCS 311 Lab Final in Moodle, and get approval from the school if needed",
+   "p": "P1",
+   "c": "BCS311"
   }
  ],
  "done": [
