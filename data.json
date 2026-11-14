@@ -52,28 +52,28 @@
   },
   {
    "d": "2026-11-24",
-   "t": "BCS 311 Lab Final, Lec4, 09:00, HUB-118 Robotic Lab (Hussein Aboueldahab) – computer based, Version A",
+   "t": "BCS 311 Lab Final, Lec4, 09:00, HUB-118 Robotic Lab (Hussein Aboueldahab) – computer based, two versions (V1 and V2), students alternate seats",
    "c": "BCS311",
    "k": "exam",
    "tbc": true
   },
   {
    "d": "2026-11-24",
-   "t": "BCS 311 Lab Final, Lec3, 17:00, HUB-118 Robotic Lab (Dr. Arash) – computer based, Version A",
+   "t": "BCS 311 Lab Final, Lec3, 17:00, HUB-118 Robotic Lab (Dr. Arash) – computer based, two versions (V1 and V2), students alternate seats",
    "c": "BCS311",
    "k": "exam",
    "tbc": true
   },
   {
    "d": "2026-11-24",
-   "t": "BCS 311 Lab Final, Lec2 – slot to confirm (regular lab is Monday 09:00, HUB-118; Ahmed Seyam) – Version A",
+   "t": "BCS 311 Lab Final, Lec2 – slot to confirm (regular lab is Monday 09:00, HUB-118; Ahmed Seyam) – computer based, two versions (V1 and V2)",
    "c": "BCS311",
    "k": "exam",
    "tbc": true
   },
   {
    "d": "2026-11-25",
-   "t": "BCS 311 Lab Final, Lec1, 15:00, HUB-117 Software Lab (Dr. Arash) – computer based, Version B",
+   "t": "BCS 311 Lab Final, Lec1, 15:00, HUB-117 Software Lab (Dr. Arash) – computer based, two versions (V1 and V2), students alternate seats",
    "c": "BCS311",
    "k": "exam",
    "tbc": true
@@ -177,6 +177,13 @@
    "t": "Spring semester starts",
    "c": "All",
    "k": "deadline"
+  },
+  {
+   "d": "2026-11-21",
+   "t": "MAI 656 individual project: students send a one-paragraph topic (approval) – proposed",
+   "c": "MAI656",
+   "k": "deadline",
+   "tbc": true
   }
  ],
  "tasks": [
