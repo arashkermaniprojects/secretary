@@ -605,6 +605,25 @@
    "t": "ICAMAC 2026 conference (virtual, 18-19 Dec): my paper ‘Black-Box Knowledge Distillation for Arabic Handwritten Text Recognition’ (Paper ID 92) is accepted for oral presentation. 19 Dec clashes with the BCS 311 final (15:30)",
    "c": "Research",
    "k": "event"
+  },
+  {
+   "d": "2026-11-16",
+   "t": "Advising meeting with a student at my office, Monday around 13:09 (I told the student to come; if I am not there the student sends a message)",
+   "c": "Admin",
+   "k": "event"
+  },
+  {
+   "d": "2026-11-18",
+   "t": "DEADLINE ICAMAC 2026 (Paper ID 92): camera-ready PDF in CMT3, validated with IEEE PDF eXpress (conference ID 73042X), IEEE copyright form, registration and payment",
+   "c": "Research",
+   "k": "deadline"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "BCS 311 makeup Midterm for the students with approved Incomplete (three students asked for the 19th) – confirm the time and room, prepare a new version of the paper",
+   "c": "BCS311",
+   "k": "exam",
+   "tbc": true
   }
  ],
  "tasks": [
@@ -704,27 +723,37 @@
    "c": "Secretary"
   },
   {
-   "t": "ICAMAC 2026 paper accepted (Paper ID 92): read the 4 mandatory steps in the email (camera-ready revision, registration and payment, ...) and find the deadlines",
-   "p": "P1",
-   "c": "Research"
-  },
-  {
    "t": "Request for a recommendation letter from a former student (external): decide and reply; he sent certificates on Wed 11 Nov",
    "p": "P2",
    "c": "Admin"
   },
   {
-   "t": "Student emails not yet read in detail: makeup quiz, advising meeting request, absence notes, attendance and midterm questions (BCS 311, BCS 402) – read and answer",
+   "t": "‘Light weight LMS and interactive teaching material’ meeting (12 Nov) was cancelled by Prof. Samy: reschedule if needed",
+   "p": "P3",
+   "c": "Admin"
+  },
+  {
+   "t": "Grade the BCS 311 makeup Midterm (13 Nov, 9:00) and the makeup quiz (13 Nov, 9:00, 2 students); then confirm the 19 Nov makeup Midterm for the others",
    "p": "P1",
    "c": "BCS311"
   },
   {
-   "t": "Emails not yet read: InnoVision 2026 security clearance documents (you are mentioned, attachments), lunch with the graduation-project students, meeting request to explore collaboration (forwarded), student affairs AI video competition",
-   "p": "P2",
+   "t": "BCS 402: two students (a group) asked whether the assignment was due at the lecture they missed and if they may submit later: answer; also record the absences of Wed 11 Nov (illness, family reasons)",
+   "p": "P1",
+   "c": "BCS402"
+  },
+  {
+   "t": "Review the approved Master Syllabi (from the IRP Office, via Reem, 9 Nov) for my courses: CLOs, topics, project rubrics, assessments and weights, mapping to CLOs (BCS 311 assignment belongs to CLO5, syllabus says CLO3)",
+   "p": "P1",
    "c": "Admin"
   },
   {
-   "t": "‘Light weight LMS and interactive teaching material’ meeting (12 Nov) was cancelled by Prof. Samy: reschedule if needed",
+   "t": "Registration of the ICAMAC paper (Paper ID 92) and the IEEE copyright form: done together with the camera-ready deadline of 18 Nov (see schedule)",
+   "p": "P1",
+   "c": "Research"
+  },
+  {
+   "t": "Lunch with the graduation-project team and the OWASP representative (my invitation, all accepted): check the time and place in the Outlook invitation",
    "p": "P3",
    "c": "Admin"
   }
