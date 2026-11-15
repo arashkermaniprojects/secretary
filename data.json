@@ -571,15 +571,15 @@
    "k": "deadline"
   },
   {
-   "d": "2026-11-09",
-   "t": "OVERDUE since Mon 9 Nov 10:00: Spring 2027 teaching preferences (Google form from Prof. Samy El Tawab, email of 6 Nov). Fill the form and send a short apology (draft ready)",
-   "c": "Admin",
-   "k": "deadline"
-  },
-  {
    "d": "2026-11-28",
    "t": "BCS 402 extra time for students who have not yet taken part in the assignment discussions (email sent 15 Nov)",
    "c": "BCS402",
+   "k": "deadline"
+  },
+  {
+   "d": "2026-11-16",
+   "t": "Prof. Samy El Tawab finalises the Spring 2027 schedule; my course assignment should follow during the week of 16 Nov (he will also add me to the PhD program bi-weekly meetings, Thursdays 6:00 PM)",
+   "c": "Admin",
    "k": "deadline"
   }
  ],
@@ -765,11 +765,6 @@
    "c": "BCS311"
   },
   {
-   "t": "Spring 2027 teaching preferences: OVERDUE (deadline was Mon 9 Nov 10:00; email of 6 Nov from Prof. Samy El Tawab, a Google form). Fill the form, then send the short apology (draft ready; I need my course choices)",
-   "p": "P1",
-   "c": "Admin"
-  },
-  {
    "t": "Answer five requests for recommendation letters (October and November; one marked urgent). Open each email, find the deadline and the form, then draft the replies",
    "p": "P1",
    "c": "Admin"
@@ -812,6 +807,7 @@
   "Moodle course files: syllabi uploaded for all six course pages; teaching materials (course website) uploaded for the four BCS 311 sections (14 Nov)",
   "BCS 311 assignment (rabbits and foxes, CLO5) posted on Moodle in all four sections, due Fri 27 Nov 23:59; announcement of all remaining assessments sent to the four sections through the faculty portal (14 Nov)",
   "Master of Science in Artificial Intelligence syllabus revision (Dr. Garg): corrected syllabus and Co-Development Form submitted (told by Dr. Arash 15 Nov)",
-  "BCS 311 incomplete midterm exams (Reem Al Sayegh emails): handled (told by Dr. Arash 15 Nov)"
+  "BCS 311 incomplete midterm exams (Reem Al Sayegh emails): handled (told by Dr. Arash 15 Nov)",
+  "Spring 2027 teaching preferences submitted (form + email 15 Nov); Prof. Samy replied 15 Nov 10:37"
  ]
 }
