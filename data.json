@@ -581,6 +581,12 @@
    "t": "Prof. Samy El Tawab finalises the Spring 2027 schedule; my course assignment should follow during the week of 16 Nov (he will also add me to the PhD program bi-weekly meetings, Thursdays 6:00 PM)",
    "c": "Admin",
    "k": "deadline"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "InnoVision 2026 conference (UAE time): Dr. Soumaya Askri proposes I run 11:00-12:35 (welcome and opening, Keynote Session I: AI, Innovation and Digital Transformation); makeup session for students 12:00-15:00",
+   "c": "Admin",
+   "k": "event"
   }
  ],
  "tasks": [
@@ -788,6 +794,11 @@
    "t": "BCS 402: Assignment 2 is live on Moodle (due 27 Nov); next: draw a problem for each student in class on Mon 16 Nov and fix presentation dates (removed from the sheet)",
    "p": "P2",
    "c": "BCS402"
+  },
+  {
+   "t": "InnoVision 2026 (Thu 19 Nov, email of 15 Nov, high importance): confirm to Dr. Soumaya Askri and Dr. Zakariya that the certificates of attendance and appreciation are ready (to be signed by the Dean of Research and the Dean of the School of Management), and confirm my 11:00-12:35 moderation slot",
+   "p": "P1",
+   "c": "Admin"
   }
  ],
  "done": [
