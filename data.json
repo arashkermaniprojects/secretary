@@ -581,12 +581,6 @@
    "t": "BCS 402 extra time for students who have not yet taken part in the assignment discussions (email sent 15 Nov)",
    "c": "BCS402",
    "k": "deadline"
-  },
-  {
-   "d": "2026-11-10",
-   "t": "OVERDUE since 10 Nov: Master of Science in Artificial Intelligence syllabus: corrected syllabus and signed Co-Development Form to the Teams folder (Dr. Sahil Garg, 5 Nov)",
-   "c": "Admin",
-   "k": "deadline"
   }
  ],
  "tasks": [
@@ -781,16 +775,6 @@
    "c": "Admin"
   },
   {
-   "t": "Master of Science in Artificial Intelligence syllabus revision (Dr. Sahil Garg, 5 Nov): upload corrected syllabus and signed Co-Development Form; deadline was 10 Nov (overdue). Find which course is mine in the Teams folder. Also read: new elective proposal (Dr. Elnashar), Dr. El-Said materials, Revised Program email",
-   "p": "P1",
-   "c": "Admin"
-  },
-  {
-   "t": "BCS 311 incomplete midterm exams (Reem, 29 Oct and 10 Nov) and makeup exam day Thu 19 Nov: check which of my students and what to prepare",
-   "p": "P2",
-   "c": "BCS311"
-  },
-  {
    "t": "Student course evaluation response rates (Tina Daaboul, 5 Nov): check what I must do",
    "p": "P2",
    "c": "Admin"
@@ -826,6 +810,8 @@
   "Email to ICT sent: internet off in the labs during the Lab Final exams (Moodle reachable, Safe Exam Browser to be confirmed); waiting for their confirmation and a test slot (14 Nov)",
   "NLP Assignment 2 (Ethical LLM) posted on Moodle, visible, due Thu 3 Dec 23:59, with the student sheet and the Colab starter notebook (14 Nov)",
   "Moodle course files: syllabi uploaded for all six course pages; teaching materials (course website) uploaded for the four BCS 311 sections (14 Nov)",
-  "BCS 311 assignment (rabbits and foxes, CLO5) posted on Moodle in all four sections, due Fri 27 Nov 23:59; announcement of all remaining assessments sent to the four sections through the faculty portal (14 Nov)"
+  "BCS 311 assignment (rabbits and foxes, CLO5) posted on Moodle in all four sections, due Fri 27 Nov 23:59; announcement of all remaining assessments sent to the four sections through the faculty portal (14 Nov)",
+  "Master of Science in Artificial Intelligence syllabus revision (Dr. Garg): corrected syllabus and Co-Development Form submitted (told by Dr. Arash 15 Nov)",
+  "BCS 311 incomplete midterm exams (Reem Al Sayegh emails): handled (told by Dr. Arash 15 Nov)"
  ]
 }
