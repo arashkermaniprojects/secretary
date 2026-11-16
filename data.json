@@ -220,8 +220,8 @@
    ]
   },
   {
-   "d": "2026-12-03",
-   "t": "MAI 656 Assignment 2 due 23:59 – proposed",
+   "d": "2026-11-20",
+   "t": "MAI 656 Assignment 2 due 23:59 (Moodle updated 16 Nov by Dr. Arash)",
    "c": "MAI656",
    "k": "deadline",
    "tbc": true,
@@ -834,6 +834,11 @@
   },
   {
    "t": "InnoVision 2026 (Thu 19 Nov): the conference programme with the joining link for each session arrived from Dr. Zakariya Chabani (16 Nov, Word attachment); read it for my session (11:00-12:35) and for the moderation responsibilities listed in Dr. Soumaya's 15 Nov mail 'Final Preparations, Registration Updates, and Moderation Responsibilities'",
+   "p": "P1",
+   "c": "Admin"
+  },
+  {
+   "t": "Graduation project 1 (GP1) final grading: schedule of the Thursday 26 Nov presentations and the evaluation rubric links are NOT yet published (Dr. Lobna: 'shared separately once the final arrangement is confirmed'); when they arrive, find which groups are mine and prepare the evaluation sheets (one Excel file per group, one sheet per student, one column per examiner; criteria with CLO and points)",
    "p": "P1",
    "c": "Admin"
   }
