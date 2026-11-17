@@ -605,6 +605,12 @@
    "t": "MAI 656 Assignment 2 presentations (class, 10:00) - set by Dr. Arash 16 Nov",
    "c": "MAI656",
    "k": "event"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "ICAMAC 2026: camera-ready paper deadline for paper 94 (extended) and registration deadline",
+   "c": "Research",
+   "k": "deadline"
   }
  ],
  "tasks": [
@@ -854,7 +860,7 @@
    "c": "MAI656"
   },
   {
-   "t": "ICAMAC 2026 registration reminder: paper 94 accepted for oral presentation, virtual, 18-19 December 2026; complete registration and the remaining steps (camera-ready deadline was noted as Wed 18 Nov)",
+   "t": "ICAMAC 2026 paper 94 (oral presentation, virtual 18-19 Dec): IEEE copyright form in CMT3, validate the final PDF in IEEE PDF eXpress (Conference ID 73042X), upload the camera-ready PDF by 25 Nov 2026 (extended); registration deadline 25 Nov; early payment 18 Nov (paper 94 is linked to the paid paper 92)",
    "p": "P1",
    "c": "Research"
   }
