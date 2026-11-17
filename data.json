@@ -617,6 +617,12 @@
    "t": "Academic Council meeting (approves KPI 3.3 syllabus changes and Spring 2027 course changes)",
    "c": "Admin",
    "k": "event"
+  },
+  {
+   "d": "2026-11-17",
+   "t": "BCS 311 Lab 3 at 17:00 is in HUB-119 today (HUB-118 has a technical issue)",
+   "c": "BCS 311",
+   "k": "event"
   }
  ],
  "tasks": [
@@ -883,6 +889,11 @@
   {
    "t": "Student request (17 Nov, lab section): remove today's lab absence, attended online; says attendance is now 25 percent. Needs my decision (attendance policy: excusable only with verifiable reason)",
    "p": "P2",
+   "c": "BCS 311"
+  },
+  {
+   "t": "HUB-118 closed (technical issue, mail from lab coordinator 17 Nov). BCS 311 labs moved: Lab 2 (Mon 9:00) to HUB-115, Lab 3 (Tue 17:00, mine) to HUB-119, Lab 4 (Tue 9:00) to HUB-119. Update the lab final room plan and the ICT request (disable internet in the NEW rooms), tell Dr. Arash which rooms fit 24 students",
+   "p": "P1",
    "c": "BCS 311"
   }
  ],
