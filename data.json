@@ -611,6 +611,12 @@
    "t": "ICAMAC 2026: camera-ready paper deadline for paper 94 (extended) and registration deadline",
    "c": "Research",
    "k": "deadline"
+  },
+  {
+   "d": "2026-11-30",
+   "t": "Academic Council meeting (approves KPI 3.3 syllabus changes and Spring 2027 course changes)",
+   "c": "Admin",
+   "k": "event"
   }
  ],
  "tasks": [
@@ -863,6 +869,11 @@
    "t": "ICAMAC 2026 paper 94 (oral presentation, virtual 18-19 Dec): IEEE copyright form in CMT3, validate the final PDF in IEEE PDF eXpress (Conference ID 73042X), upload the camera-ready PDF by 25 Nov 2026 (extended); registration deadline 25 Nov; early payment 18 Nov (paper 94 is linked to the paid paper 92)",
    "p": "P1",
    "c": "Research"
+  },
+  {
+   "t": "Dr. Injadat (17 Nov): any other changes for the courses offered in Spring 2027 (learning outcomes or course descriptions, topics or tools, labs, projects and rubrics, assessment mapping) to be approved by the Academic Council on Mon 30 Nov: send them by tomorrow morning (Wed 18 Nov); my Fall syllabi (BCS 311, BCS 402) were already sent today",
+   "p": "P1",
+   "c": "Admin"
   }
  ],
  "done": [
