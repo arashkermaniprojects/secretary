@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18 18:51",
+ "updated": "2026-11-18 19:21",
  "events": [
   {
    "d": "2026-11-14",
@@ -670,6 +670,18 @@
    "d": "2026-11-19",
    "t": "Reply to a student about the 25% absence notice and the FA (failure for non-attendance) rule; check the attendance record first",
    "c": "Attendance",
+   "k": "deadline"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "Reply to a BCS 402 student whose grandmother died (absent 18 Nov, travelling abroad, back over the weekend): excuse the absence and tell her how to catch up",
+   "c": "BCS 402",
+   "k": "deadline"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "Reply to the student taking the BCS 311 makeup midterm today 12:00 who asks how to improve in linear and nonlinear systems",
+   "c": "BCS 311",
    "k": "deadline"
   }
  ],
