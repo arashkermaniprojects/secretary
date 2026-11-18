@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18 17:52",
+ "updated": "2026-11-18 18:51",
  "events": [
   {
    "d": "2026-11-14",
@@ -664,6 +664,12 @@
    "d": "2026-11-19",
    "t": "Graduation projects: 2 students moved under Dr. Arash's supervision (Chair Prof. Samy leaves CUD after this semester); Prof. Samy is at his office tomorrow to discuss the transition",
    "c": "Graduation Projects",
+   "k": "deadline"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "Reply to a student about the 25% absence notice and the FA (failure for non-attendance) rule; check the attendance record first",
+   "c": "Attendance",
    "k": "deadline"
   }
  ],
