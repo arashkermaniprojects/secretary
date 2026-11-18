@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18 12:52",
+ "updated": "2026-11-18 15:21",
  "events": [
   {
    "d": "2026-11-14",
@@ -584,7 +584,7 @@
   },
   {
    "d": "2026-11-19",
-   "t": "InnoVision 2026 conference (UAE time): Dr. Soumaya Askri proposes I run 11:00-12:35 (welcome and opening, Keynote Session I: AI, Innovation and Digital Transformation); makeup session for students 12:00-15:00",
+   "t": "11:00-12:35 InnoVision 2026 (online): Dr. Arash coordinates the welcome and opening remarks and Keynote Session I (time slot assigned by the conference coordinator on 15 Nov); the conference runs 11:00-17:00",
    "c": "Admin",
    "k": "event"
   },
@@ -632,7 +632,7 @@
   },
   {
    "d": "2026-11-19",
-   "t": "11:00-17:00 InnoVision 2026 student conference on AI, sustainability and entrepreneurship (online, invitation from CUD; optional)",
+   "t": "11:00-12:35 InnoVision 2026 (online): Dr. Arash coordinates the welcome and opening remarks and Keynote Session I (time slot assigned by the conference coordinator on 15 Nov); the conference runs 11:00-17:00",
    "c": "CUD",
    "k": "event"
   },
@@ -640,6 +640,12 @@
    "d": "2026-12-18",
    "t": "ICAMAC 2026 online conference, 18-19 Dec: paper accepted for virtual presentation (acceptance letter in inbox)",
    "c": "Research",
+   "k": "event"
+  },
+  {
+   "d": "2026-11-18",
+   "t": "17:00-17:30 Teams meeting: NLP and Computer Vision co-delivery with Mr. Jamalian (accepted)",
+   "c": "MAI 656",
    "k": "event"
   }
  ],
