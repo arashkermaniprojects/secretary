@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18 15:21",
+ "updated": "2026-11-18 15:56",
  "events": [
   {
    "d": "2026-11-14",
@@ -645,6 +645,18 @@
   {
    "d": "2026-11-18",
    "t": "17:00-17:30 Teams meeting: NLP and Computer Vision co-delivery with Mr. Jamalian (accepted)",
+   "c": "MAI 656",
+   "k": "event"
+  },
+  {
+   "d": "2026-11-18",
+   "t": "DUE TODAY: verify MAI 656 (NLP) syllabus from IRP (textbooks, chapter references, consistency) and send the final copy to Dr. Sahil Garg for tomorrow's Curriculum Committee meeting",
+   "c": "MAI 656",
+   "k": "deadline"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "Curriculum Committee meeting: MAI 656 (NLP) syllabus presented (Dr. Sahil Garg)",
    "c": "MAI 656",
    "k": "event"
   }
