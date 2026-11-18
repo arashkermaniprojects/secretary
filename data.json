@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-18 12:52",
  "events": [
   {
    "d": "2026-11-14",
@@ -628,6 +628,18 @@
    "d": "2026-11-17",
    "t": "13:30-14:00 Meeting: Kamangir collaboration with Begum Organization (invite in inbox)",
    "c": "Kamangir",
+   "k": "event"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "11:00-17:00 InnoVision 2026 student conference on AI, sustainability and entrepreneurship (online, invitation from CUD; optional)",
+   "c": "CUD",
+   "k": "event"
+  },
+  {
+   "d": "2026-12-18",
+   "t": "ICAMAC 2026 online conference, 18-19 Dec: paper accepted for virtual presentation (acceptance letter in inbox)",
+   "c": "Research",
    "k": "event"
   }
  ],
