@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18 15:56",
+ "updated": "2026-11-18 17:52",
  "events": [
   {
    "d": "2026-11-14",
@@ -659,6 +659,12 @@
    "t": "Curriculum Committee meeting: MAI 656 (NLP) syllabus presented (Dr. Sahil Garg)",
    "c": "MAI 656",
    "k": "event"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "Graduation projects: 2 students moved under Dr. Arash's supervision (Chair Prof. Samy leaves CUD after this semester); Prof. Samy is at his office tomorrow to discuss the transition",
+   "c": "Graduation Projects",
+   "k": "deadline"
   }
  ],
  "tasks": [
