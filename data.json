@@ -683,6 +683,12 @@
    "t": "Reply to the student taking the BCS 311 makeup midterm today 12:00 who asks how to improve in linear and nonlinear systems",
    "c": "BCS 311",
    "k": "deadline"
+  },
+  {
+   "d": "2026-11-20",
+   "t": "3 PM: Sanad Technical Testing Meeting (a student asks you to confirm the time; reply needed)",
+   "c": "Sanad",
+   "k": "deadline"
   }
  ],
  "tasks": [
