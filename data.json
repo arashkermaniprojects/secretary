@@ -689,6 +689,12 @@
    "t": "3 PM: Sanad Technical Testing Meeting (a student asks you to confirm the time; reply needed)",
    "c": "Sanad",
    "k": "deadline"
+  },
+  {
+   "d": "2026-11-29",
+   "t": "Incomplete grade request for a BCS 311 student: academic approval form (sent by the School office, saved in Downloads), due 09:00",
+   "c": "BCS 311",
+   "k": "deadline"
   }
  ],
  "tasks": [
