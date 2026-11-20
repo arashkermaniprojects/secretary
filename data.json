@@ -695,6 +695,12 @@
    "t": "Incomplete grade request for a BCS 311 student: academic approval form (sent by the School office, saved in Downloads), due 09:00",
    "c": "BCS 311",
    "k": "deadline"
+  },
+  {
+   "d": "2026-11-21",
+   "t": "By midday: feedback on the InnoVision 2026 draft article for the CUD website (draft attached to Dr. Soumaya Askri's email of 20 Nov, 16:47)",
+   "c": "InnoVision",
+   "k": "deadline"
   }
  ],
  "tasks": [
