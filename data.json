@@ -536,7 +536,7 @@
   },
   {
    "d": "2026-11-26",
-   "t": "Graduation Project 1 final presentations, 12:00 to 15:00 (31 groups; full support of all faculty requested; detailed schedule and rubrics will follow)",
+   "t": "Graduation Project 1 final presentations, 12:00 to 15:00 (30 groups, 15 minutes each: 10 minutes presentation, 5 minutes questions; full support of all faculty requested)",
    "c": "Admin",
    "k": "event"
   },
@@ -700,6 +700,12 @@
    "d": "2026-11-21",
    "t": "By midday: feedback on the InnoVision 2026 draft article for the CUD website (draft attached to Dr. Soumaya Askri's email of 20 Nov, 16:47)",
    "c": "InnoVision",
+   "k": "deadline"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Graduation Project 1: final report submission deadline, 13:00 (reminder from Dr. Lobna AbuSerrieh, 21 Nov)",
+   "c": "Admin",
    "k": "deadline"
   }
  ],
