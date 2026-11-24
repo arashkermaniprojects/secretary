@@ -714,6 +714,24 @@
    "c": "Admin",
    "k": "meeting",
    "tbc": true
+  },
+  {
+   "d": "2026-12-02",
+   "t": "University closed for the UAE National Day (Wed 2 to Fri 4 December); it reopens on Saturday 5 December (announcement from Human Resources)",
+   "c": "Admin",
+   "k": "event"
+  },
+  {
+   "d": "2026-12-03",
+   "t": "University closed for the UAE National Day (Wed 2 to Fri 4 December); it reopens on Saturday 5 December (announcement from Human Resources)",
+   "c": "Admin",
+   "k": "event"
+  },
+  {
+   "d": "2026-12-04",
+   "t": "University closed for the UAE National Day (Wed 2 to Fri 4 December); it reopens on Saturday 5 December (announcement from Human Resources)",
+   "c": "Admin",
+   "k": "event"
   }
  ],
  "tasks": [
