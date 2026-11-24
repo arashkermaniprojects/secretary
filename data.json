@@ -707,6 +707,13 @@
    "t": "Graduation Project 1: final report submission deadline, 13:00 (reminder from Dr. Lobna AbuSerrieh, 21 Nov)",
    "c": "Admin",
    "k": "deadline"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Curriculum Committee meeting for Spring courses, 18:00 (invitation from the Academic Support Officer; clashes with the BCS 402 class at 18:00, decision needed)",
+   "c": "Admin",
+   "k": "meeting",
+   "tbc": true
   }
  ],
  "tasks": [
