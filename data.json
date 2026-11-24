@@ -732,6 +732,12 @@
    "t": "University closed for the UAE National Day (Wed 2 to Fri 4 December); it reopens on Saturday 5 December (announcement from Human Resources)",
    "c": "Admin",
    "k": "event"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "UAE National Day celebration (Eid Al Etihad) for students, faculty and staff, 4:00 PM to 9:00 PM, HUB building (optional invitation from Student Affairs)",
+   "c": "Admin",
+   "k": "event"
   }
  ],
  "tasks": [
