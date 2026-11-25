@@ -745,6 +745,18 @@
    "c": "Admin",
    "k": "meeting",
    "tbc": true
+  },
+  {
+   "d": "2026-11-25",
+   "t": "Dean asks all faculty to nominate student projects ASAP for the official visit of a Canadian government minister on Thursday 26 November (project title and a short description for each, to be shown at the CUD stands)",
+   "c": "Admin",
+   "k": "deadline"
+  },
+  {
+   "d": "2026-11-26",
+   "t": "Official visit of the Canadian Minister of Finance and National Revenue to CUD, programme starts 4:00 PM with a student Q&A; selected student projects are shown at the CUD stands",
+   "c": "Admin",
+   "k": "event"
   }
  ],
  "tasks": [
