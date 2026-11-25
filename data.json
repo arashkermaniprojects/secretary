@@ -738,6 +738,13 @@
    "t": "UAE National Day celebration (Eid Al Etihad) for students, faculty and staff, 4:00 PM to 9:00 PM, HUB building (optional invitation from Student Affairs)",
    "c": "Admin",
    "k": "event"
+  },
+  {
+   "d": "2026-11-25",
+   "t": "QS Rankings Briefing with Dr. Goh (School of Engineering, Applied Sciences and Technology), 3:00 PM to 4:00 PM, SOM meeting room; invitation sent Tuesday evening, CLASH with the BCS 311 Lec1 lab final at 3:00 PM",
+   "c": "Admin",
+   "k": "meeting",
+   "tbc": true
   }
  ],
  "tasks": [
